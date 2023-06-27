@@ -1,7 +1,15 @@
-#main {
+* {
+  background-image: url(images/360_F_597742919_gNwhTPLDD1T9ACAJXZ9qVuvCVFsDvXCe.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  color: white;
 }
 
 #github-container {
